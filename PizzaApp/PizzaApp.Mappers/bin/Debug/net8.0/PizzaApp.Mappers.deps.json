@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PizzaApp.Mappers/1.0.0": {
+        "dependencies": {
+          "PizzaApp.DTOs": "1.0.0",
+          "PizzaApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PizzaApp.Mappers.dll": {}
+        }
+      },
+      "PizzaApp.Domain/1.0.0": {
+        "runtime": {
+          "PizzaApp.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PizzaApp.DTOs/1.0.0": {
+        "dependencies": {
+          "PizzaApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PizzaApp.DTOs.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PizzaApp.Mappers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PizzaApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PizzaApp.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

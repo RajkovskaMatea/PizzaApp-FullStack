@@ -1,0 +1,12 @@
+C:\Users\MATEA\Desktop\PizzaApp-FullImplementation\PizzaApp\PizzaApp.Shared\bin\Debug\net8.0\PizzaApp.Shared.deps.json
+C:\Users\MATEA\Desktop\PizzaApp-FullImplementation\PizzaApp\PizzaApp.Shared\bin\Debug\net8.0\PizzaApp.Shared.dll
+C:\Users\MATEA\Desktop\PizzaApp-FullImplementation\PizzaApp\PizzaApp.Shared\bin\Debug\net8.0\PizzaApp.Shared.pdb
+C:\Users\MATEA\Desktop\PizzaApp-FullImplementation\PizzaApp\PizzaApp.Shared\obj\Debug\net8.0\PizzaApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MATEA\Desktop\PizzaApp-FullImplementation\PizzaApp\PizzaApp.Shared\obj\Debug\net8.0\PizzaApp.Shared.AssemblyInfoInputs.cache
+C:\Users\MATEA\Desktop\PizzaApp-FullImplementation\PizzaApp\PizzaApp.Shared\obj\Debug\net8.0\PizzaApp.Shared.AssemblyInfo.cs
+C:\Users\MATEA\Desktop\PizzaApp-FullImplementation\PizzaApp\PizzaApp.Shared\obj\Debug\net8.0\PizzaApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\MATEA\Desktop\PizzaApp-FullImplementation\PizzaApp\PizzaApp.Shared\obj\Debug\net8.0\PizzaApp.Shared.sourcelink.json
+C:\Users\MATEA\Desktop\PizzaApp-FullImplementation\PizzaApp\PizzaApp.Shared\obj\Debug\net8.0\PizzaApp.Shared.dll
+C:\Users\MATEA\Desktop\PizzaApp-FullImplementation\PizzaApp\PizzaApp.Shared\obj\Debug\net8.0\refint\PizzaApp.Shared.dll
+C:\Users\MATEA\Desktop\PizzaApp-FullImplementation\PizzaApp\PizzaApp.Shared\obj\Debug\net8.0\PizzaApp.Shared.pdb
+C:\Users\MATEA\Desktop\PizzaApp-FullImplementation\PizzaApp\PizzaApp.Shared\obj\Debug\net8.0\ref\PizzaApp.Shared.dll
